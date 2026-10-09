@@ -42,8 +42,8 @@ I'm a full-stack developer based in Cork, Ireland, and the founder of [Rabbit Gu
       <p><code>React Native</code> <code>Expo</code> <code>Next.js</code> <code>Supabase</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://navidakram.com/roster"><img src="assets/rosterflow.jpg" alt="RosterFlow dashboard" width="100%"></a>
-      <h3><a href="https://navidakram.com/roster">RosterFlow</a></h3>
+      <a href="https://navidakram.com"><img src="assets/rosterflow.jpg" alt="RosterFlow dashboard" width="100%"></a>
+      <h3><a href="https://navidakram.com">RosterFlow</a></h3>
       <p>Workforce and shift management SaaS with AI roster generation, shift swaps, attendance, tasks and wage tracking.</p>
       <p><code>Next.js</code> <code>Supabase</code> <code>AI scheduling</code></p>
     </td>
