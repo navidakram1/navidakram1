@@ -3,13 +3,12 @@
 </p>
 
 <p align="center">
-  <a href="https://navidakram.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="40"></a>
-  &nbsp;
-  <a href="https://rabbitguy.com"><img src="assets/btn-rabbitguy.svg" alt="Rabbit Guy" height="40"></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/navidakram"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
-  &nbsp;
-  <a href="mailto:Me@navidakram.com"><img src="assets/btn-email.svg" alt="Email me" height="40"></a>
+  <a href="https://navidakram.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="36"></a>
+  <a href="https://rabbitguy.com"><img src="assets/btn-rabbitguy.svg" alt="Rabbit Guy" height="36"></a>
+  <a href="https://linkedin.com/in/navidakram"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="36"></a>
+  <a href="https://facebook.com/rabbitguys"><img src="assets/btn-facebook.svg" alt="Facebook" height="36"></a>
+  <a href="https://wa.me/353851956384"><img src="assets/btn-whatsapp.svg" alt="WhatsApp" height="36"></a>
+  <a href="mailto:Me@navidakram.com"><img src="assets/btn-email.svg" alt="Email" height="36"></a>
 </p>
 
 ## Hi, I'm Navid
@@ -18,6 +17,10 @@ I'm a full-stack developer based in Cork, Ireland, and the founder of [Rabbit Gu
 
 <p align="center">
   <img src="assets/stats.svg" alt="1,350+ projects delivered, 1,280+ five-star reviews, 22,000+ audience reached, 4 live products" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/navidakram1?tab=repositories"><img src="assets/github.svg" alt="GitHub: navidakram1 — 682 contributions this year, 37 repositories, 5 active products, on GitHub since 2024" width="100%"></a>
 </p>
 
 ## What I'm building

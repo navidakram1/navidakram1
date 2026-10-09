@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="GitHub: navidakram1 — 682 Contributions this year, 37 Repositories, 5 Active products, 2024 On GitHub since">
+<defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#11204d"/></linearGradient>
+<linearGradient id="n" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#8ec5ff"/></linearGradient>
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,monospace}</style></defs>
+<rect x="1" y="1" width="1198" height="148" rx="24" fill="url(#c)" stroke="#5aa7ff" stroke-opacity="0.28"/>
+<g transform="translate(40 43) scale(4)" fill="#ffffff"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27s1.36.09 2 .27c1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.01 8.01 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></g>
+<text x="128" y="72" class="s" font-size="28" font-weight="800" fill="#ffffff">@navidakram1</text>
+<text x="128" y="100" class="m" font-size="14" fill="#6fb0ff">github.com/navidakram1</text>
+<line x1="400" y1="34" x2="400" y2="116" stroke="#ffffff" stroke-opacity="0.1"/>
+<text x="497" y="76" text-anchor="middle" class="s" font-size="38" font-weight="800" letter-spacing="-1" fill="url(#n)">682</text>
+<text x="497" y="104" text-anchor="middle" class="s" font-size="14" font-weight="600" fill="#a9bfe8">Contributions this year</text>
+<text x="691" y="76" text-anchor="middle" class="s" font-size="38" font-weight="800" letter-spacing="-1" fill="url(#n)">37</text>
+<text x="691" y="104" text-anchor="middle" class="s" font-size="14" font-weight="600" fill="#a9bfe8">Repositories</text>
+<text x="885" y="76" text-anchor="middle" class="s" font-size="38" font-weight="800" letter-spacing="-1" fill="url(#n)">5</text>
+<text x="885" y="104" text-anchor="middle" class="s" font-size="14" font-weight="600" fill="#a9bfe8">Active products</text>
+<text x="1079" y="76" text-anchor="middle" class="s" font-size="38" font-weight="800" letter-spacing="-1" fill="url(#n)">2024</text>
+<text x="1079" y="104" text-anchor="middle" class="s" font-size="14" font-weight="600" fill="#a9bfe8">On GitHub since</text>
+</svg>
