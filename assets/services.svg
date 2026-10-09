@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 190" width="1200" height="190" role="img" aria-label="Services: Websites — Marketing sites and stores, designed and built to convert.; SaaS platforms — Auth, billing, dashboards and AI features, end to end.; Mobile &amp; desktop apps — iOS, Android, macOS, Windows and Linux from one team.; Design &amp; branding — Logos, motion, app store assets and ad creative.">
+<defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1226"/><stop offset="1" stop-color="#11204d"/></linearGradient>
+<linearGradient id="i" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2f8fff"/><stop offset="1" stop-color="#1e5fe0"/></linearGradient>
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif}</style></defs>
+<rect x="1.0" y="1" width="286.0" height="188" rx="22" fill="url(#c)" stroke="#5aa7ff" stroke-opacity="0.28"/>
+<rect x="24.0" y="24" width="54" height="54" rx="15" fill="url(#i)"/>
+<g transform="translate(36.0 37)" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="0" y="2" width="30" height="24" rx="5"/><line x1="0" y1="10" x2="30" y2="10"/><circle cx="5" cy="6" r="0.6"/></g>
+<text x="24.0" y="112" class="s" font-size="20" font-weight="800" fill="#ffffff">Websites</text>
+<text x="24.0" y="136" class="s" font-size="14.5" fill="#b4c6ea">Marketing sites and stores,</text>
+<text x="24.0" y="156" class="s" font-size="14.5" fill="#b4c6ea">designed and built to convert.</text>
+<rect x="305.0" y="1" width="286.0" height="188" rx="22" fill="url(#c)" stroke="#5aa7ff" stroke-opacity="0.28"/>
+<rect x="328.0" y="24" width="54" height="54" rx="15" fill="url(#i)"/>
+<g transform="translate(340.0 37)" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 1 29 8 15 15 1 8z"/><path d="M1 14 15 21 29 14"/><path d="M1 20 15 27 29 20"/></g>
+<text x="328.0" y="112" class="s" font-size="20" font-weight="800" fill="#ffffff">SaaS platforms</text>
+<text x="328.0" y="136" class="s" font-size="14.5" fill="#b4c6ea">Auth, billing, dashboards and AI</text>
+<text x="328.0" y="156" class="s" font-size="14.5" fill="#b4c6ea">features, end to end.</text>
+<rect x="609.0" y="1" width="286.0" height="188" rx="22" fill="url(#c)" stroke="#5aa7ff" stroke-opacity="0.28"/>
+<rect x="632.0" y="24" width="54" height="54" rx="15" fill="url(#i)"/>
+<g transform="translate(644.0 37)" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><rect x="7" y="0" width="16" height="28" rx="4"/><line x1="13" y1="23" x2="17" y2="23"/></g>
+<text x="632.0" y="112" class="s" font-size="20" font-weight="800" fill="#ffffff">Mobile &amp; desktop apps</text>
+<text x="632.0" y="136" class="s" font-size="14.5" fill="#b4c6ea">iOS, Android, macOS, Windows and</text>
+<text x="632.0" y="156" class="s" font-size="14.5" fill="#b4c6ea">Linux from one team.</text>
+<rect x="913.0" y="1" width="286.0" height="188" rx="22" fill="url(#c)" stroke="#5aa7ff" stroke-opacity="0.28"/>
+<rect x="936.0" y="24" width="54" height="54" rx="15" fill="url(#i)"/>
+<g transform="translate(948.0 37)" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 25 6 16 21 1l6 6L12 22z"/><line x1="17" y1="5" x2="23" y2="11"/></g>
+<text x="936.0" y="112" class="s" font-size="20" font-weight="800" fill="#ffffff">Design &amp; branding</text>
+<text x="936.0" y="136" class="s" font-size="14.5" fill="#b4c6ea">Logos, motion, app store assets</text>
+<text x="936.0" y="156" class="s" font-size="14.5" fill="#b4c6ea">and ad creative.</text>
+</svg>

@@ -28,10 +28,14 @@
       .drift2 { animation: drift 18s ease-in-out infinite alternate-reverse; }
       .blink { animation: blink 1.1s steps(1) infinite; }
       .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: 84px 78px; }
+      .rot { opacity: 0; animation: rot 12s linear infinite; }
+      .r2 { animation-delay: 4s; }
+      .r3 { animation-delay: 8s; }
+      @keyframes rot { 0% { opacity: 0; } 3%, 30% { opacity: 1; } 33.3%, 100% { opacity: 0; } }
       @keyframes drift { from { transform: translate(0, 0); } to { transform: translate(-70px, 30px); } }
       @keyframes blink { 50% { opacity: 0; } }
       @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.35; } }
-      @media (prefers-reduced-motion: reduce) { .drift, .drift2, .blink, .pulse { animation: none; } }
+      @media (prefers-reduced-motion: reduce) { .drift, .drift2, .blink, .pulse, .rot { animation: none; } .r1 { opacity: 1; } }
     </style>
   </defs>
 
@@ -49,7 +53,12 @@
     <text x="62" y="176" class="sans" font-size="68" font-weight="800" letter-spacing="-2" fill="url(#name)">Sk Navid Akram</text>
     <text x="64" y="222" class="sans" font-size="24" font-weight="500" fill="#c3d4f5">Full-Stack Developer · Founder of Rabbit Guy Ltd</text>
 
-    <text x="64" y="270" class="mono" font-size="16" fill="#7fb6ff">$ building <tspan fill="#ffffff">SaaS, web, mobile and desktop apps</tspan><tspan class="blink" fill="#5cc8ff"> ▍</tspan></text>
+    <text x="64" y="270" class="mono" font-size="16" fill="#7fb6ff">$ building</text>
+    <g class="mono" font-size="16" fill="#ffffff">
+      <text x="170" y="270" class="rot r1">SaaS platforms that bill from day one<tspan fill="#5cc8ff"> ▍</tspan></text>
+      <text x="170" y="270" class="rot r2">mobile and desktop apps people keep<tspan fill="#5cc8ff"> ▍</tspan></text>
+      <text x="170" y="270" class="rot r3">websites designed to convert<tspan fill="#5cc8ff"> ▍</tspan></text>
+    </g>
 
     <!-- chips -->
     <g class="sans" font-size="14" font-weight="600" fill="#eaf2ff">

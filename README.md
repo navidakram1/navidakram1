@@ -3,10 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://navidakram.com"><b>Portfolio</b></a> &nbsp;·&nbsp;
-  <a href="https://rabbitguy.com"><b>Rabbit Guy</b></a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/navidakram"><b>LinkedIn</b></a> &nbsp;·&nbsp;
-  <a href="mailto:Me@navidakram.com"><b>Email</b></a>
+  <a href="https://navidakram.com"><img src="assets/btn-portfolio.svg" alt="Portfolio" height="40"></a>
+  &nbsp;
+  <a href="https://rabbitguy.com"><img src="assets/btn-rabbitguy.svg" alt="Rabbit Guy" height="40"></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/navidakram"><img src="assets/btn-linkedin.svg" alt="LinkedIn" height="40"></a>
+  &nbsp;
+  <a href="mailto:Me@navidakram.com"><img src="assets/btn-email.svg" alt="Email me" height="40"></a>
 </p>
 
 ## Hi, I'm Navid
@@ -19,36 +22,20 @@ I'm a full-stack developer based in Cork, Ireland, and the founder of [Rabbit Gu
 
 ## What I'm building
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://spreadreels.com"><img src="assets/spreadreels.jpg" alt="SpreadReels homepage" width="100%"></a>
-      <h3><a href="https://spreadreels.com">SpreadReels</a></h3>
-      <p>AI studio that turns a product or app link into UGC and POV videos, tests the hooks and posts to every account.</p>
-      <p><code>React</code> <code>Vite</code> <code>Supabase</code> <code>Stripe</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://motionever.com"><img src="assets/motionever.jpg" alt="MotionEver homepage" width="100%"></a>
-      <h3><a href="https://motionever.com">MotionEver</a></h3>
-      <p>Screen recorder and video editor for macOS, Windows and Linux with auto-zoom, cursor effects and instant export.</p>
-      <p><code>Electron</code> <code>React</code> <code>TypeScript</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://buddysurf.com"><img src="assets/buddysurf.jpg" alt="BuddySurf homepage" width="100%"></a>
-      <h3><a href="https://buddysurf.com">BuddySurf</a></h3>
-      <p>Location-based social app for iOS, Android and web: meet real people nearby and join plans that actually happen.</p>
-      <p><code>React Native</code> <code>Expo</code> <code>Next.js</code> <code>Supabase</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://navidakram.com"><img src="assets/rosterflow.jpg" alt="RosterFlow dashboard" width="100%"></a>
-      <h3><a href="https://navidakram.com">RosterFlow</a></h3>
-      <p>Workforce and shift management SaaS with AI roster generation, shift swaps, attendance, tasks and wage tracking.</p>
-      <p><code>Next.js</code> <code>Supabase</code> <code>AI scheduling</code></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://spreadreels.com"><img src="assets/card-spreadreels.svg" alt="SpreadReels — AI studio that turns a product or app link into UGC and POV videos, tests the hooks and posts to every account. React, Vite, Supabase, Stripe." width="49%"></a>
+  <a href="https://motionever.com"><img src="assets/card-motionever.svg" alt="MotionEver — screen recorder and video editor for macOS, Windows and Linux with auto-zoom, cursor effects and instant export. Electron, React, TypeScript." width="49%"></a>
+</p>
+<p align="center">
+  <a href="https://buddysurf.com"><img src="assets/card-buddysurf.svg" alt="BuddySurf — location-based social app for iOS, Android and web: meet real people nearby and join plans that actually happen. React Native, Expo, Next.js, Supabase." width="49%"></a>
+  <a href="https://navidakram.com"><img src="assets/card-rosterflow.svg" alt="RosterFlow — workforce and shift management with AI roster generation, shift swaps, attendance, tasks and wage tracking. Next.js, Supabase, AI scheduling." width="49%"></a>
+</p>
+
+## What I do
+
+<p align="center">
+  <img src="assets/services.svg" alt="Websites, SaaS platforms, mobile and desktop apps, design and branding" width="100%">
+</p>
 
 ## Tech stack
 
@@ -56,12 +43,14 @@ I'm a full-stack developer based in Cork, Ireland, and the founder of [Rabbit Gu
   <img src="assets/stack.svg" alt="Frontend: React, Next.js, TypeScript, Tailwind CSS, Motion. Backend: Node.js, Laravel / PHP, Java, Python, SQL. Apps: React Native, Expo, Electron, Android. Cloud: Supabase, Firebase, AWS, Docker, Stripe." width="100%">
 </p>
 
-## Work with me
+<br>
 
-I take on freelance and contract work through Rabbit Guy: websites, SaaS builds, mobile apps and design.
+<p align="center">
+  <a href="https://rabbitguy.com"><img src="assets/cta.svg" alt="Have a project in mind? Start a project with Rabbit Guy" width="100%"></a>
+</p>
 
-<p>
-  <a href="https://rabbitguy.com"><b>Start a project →</b></a> &nbsp;·&nbsp;
-  <a href="https://navidakram.com"><b>See my portfolio →</b></a> &nbsp;·&nbsp;
-  <a href="mailto:Me@navidakram.com"><b>Me@navidakram.com</b></a>
+<p align="center">
+  <a href="https://rabbitguy.com"><img src="assets/rabbit.webp" alt="Rabbit Guy animated logo" width="56"></a>
+  <br>
+  <sub><b>Rabbit Guy Ltd</b> · UK company no. 16068046 · Design. Build. Launch.</sub>
 </p>
