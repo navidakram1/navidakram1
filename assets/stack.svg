@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 266" width="1200" height="266" role="img" aria-label="Tech stack: Frontend: React, Next.js, TypeScript, Tailwind CSS, Motion; Backend: Node.js, Laravel / PHP, Java, Python, SQL; Apps: React Native, Expo, Electron, Android; Cloud: Supabase, Firebase, AWS, Docker, Stripe">
+<defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0a1022"/><stop offset="1" stop-color="#101f4a"/></linearGradient>
+<style>.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Inter,Helvetica,Arial,sans-serif}.m{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}</style></defs>
+<rect width="1200" height="266" rx="24" fill="url(#c)" stroke="#5aa7ff" stroke-opacity="0.25"/>
+<text x="40" y="53" class="m" font-size="14" font-weight="600" letter-spacing="1.5" fill="#6fb0ff">FRONTEND</text>
+<rect x="190" y="29" width="82" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="231" y="51" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">React</text>
+<rect x="284" y="29" width="100" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="334" y="51" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Next.js</text>
+<rect x="396" y="29" width="128" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="460" y="51" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">TypeScript</text>
+<rect x="536" y="29" width="146" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="610" y="51" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Tailwind CSS</text>
+<rect x="695" y="29" width="91" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="740" y="51" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Motion</text>
+<line x1="32" y1="75" x2="1168" y2="75" stroke="#ffffff" stroke-opacity="0.07"/>
+<text x="40" y="111" class="m" font-size="14" font-weight="600" letter-spacing="1.5" fill="#6fb0ff">BACKEND</text>
+<rect x="190" y="87" width="100" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="240" y="109" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Node.js</text>
+<rect x="302" y="87" width="156" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="380" y="109" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Laravel / PHP</text>
+<rect x="470" y="87" width="73" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="506" y="109" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Java</text>
+<rect x="555" y="87" width="91" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="600" y="109" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Python</text>
+<rect x="658" y="87" width="64" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="690" y="109" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">SQL</text>
+<line x1="32" y1="133" x2="1168" y2="133" stroke="#ffffff" stroke-opacity="0.07"/>
+<text x="40" y="169" class="m" font-size="14" font-weight="600" letter-spacing="1.5" fill="#6fb0ff">APPS</text>
+<rect x="190" y="145" width="146" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="263" y="167" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">React Native</text>
+<rect x="348" y="145" width="73" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="385" y="167" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Expo</text>
+<rect x="433" y="145" width="110" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="488" y="167" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Electron</text>
+<rect x="555" y="145" width="100" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="605" y="167" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Android</text>
+<line x1="32" y1="191" x2="1168" y2="191" stroke="#ffffff" stroke-opacity="0.07"/>
+<text x="40" y="227" class="m" font-size="14" font-weight="600" letter-spacing="1.5" fill="#6fb0ff">CLOUD</text>
+<rect x="190" y="203" width="110" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="245" y="225" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Supabase</text>
+<rect x="312" y="203" width="110" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="366" y="225" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Firebase</text>
+<rect x="433" y="203" width="64" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="465" y="225" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">AWS</text>
+<rect x="509" y="203" width="91" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="554" y="225" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Docker</text>
+<rect x="612" y="203" width="91" height="34" rx="17" fill="#ffffff" fill-opacity="0.07" stroke="#ffffff" stroke-opacity="0.16"/>
+<text x="658" y="225" text-anchor="middle" class="s" font-size="15" font-weight="600" fill="#eaf2ff">Stripe</text>
+</svg>
